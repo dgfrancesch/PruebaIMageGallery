@@ -1,0 +1,14 @@
+.card-img-top {
+  height:300px;
+  object-fit: cover;
+}
+
+.card{
+    border-radius: 25px;
+    overflow: hidden;
+
+}
+
+.card:hover{
+    box-shadow: 0 0 20px 0 rgba(0, 4, 10, 2);
+}
